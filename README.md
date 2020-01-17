@@ -13,6 +13,6 @@ Ouvrir un terminal, cloner le projet, se déplacer à la racine du projet et sai
 
     mvn clean install
     
-Les dépendances seront installées, le projet compilé et les test seront exécutés dans la foulée.
+Les dépendances seront installées, le projet compilé et les tests seront exécutés dans la foulée.
 
-Les 2 cas de test devraient d'exécuter avec succès!
+Les 2 cas de test devraient s'exécuter avec succès!
